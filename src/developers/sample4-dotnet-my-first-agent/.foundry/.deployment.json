@@ -1,0 +1,12 @@
+{
+  "projectId": "ef3703d4-9ba1-4e60-a851-aaef8ff1e185",
+  "hostedAgentDeployOptions": {
+    "deploymentMethod": "zip",
+    "zipPackageMode": "remote",
+    "zipRuntime": "dotnet_10",
+    "zipEntryPoint": [
+      "dotnet",
+      "hello-world.dll"
+    ]
+  }
+}
